@@ -1,4 +1,4 @@
-## 本项目是对 react hooks 的练习
+## 本项目主要是搭建 react 的基础工程，并对 react hooks 进行练习
 
 > 参考[React Hook + TS 购物车实战（性能优化、闭包陷阱、自定义 hook）](https://juejin.im/post/6844904079181905927)
 
@@ -23,6 +23,7 @@
 - 创建 craco.config.js 用于修改默认配置
 - 引用 less，并修改 craco.config.js 中的配置 `yarn add craco-less`
 - 在 app.less 中引用 antd 样式
+- paths.json 文件用于声明别名的引用
 
 ## 使用
 

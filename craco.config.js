@@ -6,6 +6,8 @@ module.exports = {
     // 别名
     alias: {
       '@': path.resolve('src'),
+      '@config': path.resolve('src/config'),
+      '@utils': path.resolve('src/utils'),
     },
   },
   plugins: [
